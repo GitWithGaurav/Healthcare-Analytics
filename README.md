@@ -2,7 +2,6 @@
 
 
 The process of creating a dashboard in Power BI consist of following steps:
-
 -Requirement Gathering
 -Data Collection
 -Data Transformation & Modelling
